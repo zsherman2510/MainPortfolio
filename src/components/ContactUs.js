@@ -14,7 +14,9 @@ export default class ContactUs extends Component {
           <aside className="eigth columns footer-widgets">
             <div className="widget">
               <h4>
-                <a href="mailto:shermanzavion@gmail.com">Email Me </a>
+                <a href="mailto:shermanzavion@gmail.com">
+                  shermanzavion@gmail.com
+                </a>
               </h4>
             </div>
           </aside>
