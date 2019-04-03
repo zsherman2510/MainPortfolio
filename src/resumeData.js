@@ -83,7 +83,7 @@ let resumeData = {
     {
       name: "Marketshare",
       description:
-        "Full-Stack Serverless Marketplace app built with React / Amplify, a complete GraphQL API, Multi-Factor Authentication, Lambda Functions for charging customers, Stripe for payment processing and the component library Element for styling. ",
+        "Full-Stack Serverless Marketplace app built with React / Amplify, a complete GraphQL API, Multi-Factor Authentication, Lambda Functions for charging customers, Stripe for payment processing and the component library Element for styling. Username: testtest Password: Test123!",
       imgurl: "/images/marketplace-min.png",
       site:
         "http://marketshare-20190402143628-hostingbucket-dev.s3-website-us-west-2.amazonaws.com/",

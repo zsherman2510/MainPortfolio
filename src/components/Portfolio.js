@@ -56,10 +56,20 @@ class Portfolio extends Component {
                         </CardContent>
                       </CardActionArea>
                       <CardActions>
-                        <Button size="large" color="primary" href={item.site}>
+                        <Button
+                          size="large"
+                          color="primary"
+                          href={item.site}
+                          target="_blank"
+                        >
                           Preview
                         </Button>
-                        <Button size="large" color="primary" href={item.github}>
+                        <Button
+                          size="large"
+                          color="primary"
+                          href={item.github}
+                          target="_blank"
+                        >
                           Github
                         </Button>
                       </CardActions>
