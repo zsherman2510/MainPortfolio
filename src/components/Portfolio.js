@@ -12,7 +12,7 @@ import Typography from "@material-ui/core/Typography";
 
 const styles = {
   card: {
-    margin: "auto",
+    margin: 10,
     height: 400,
     width: 400
   },
@@ -54,25 +54,25 @@ class Portfolio extends Component {
                             {item.description}
                           </Typography>
                         </CardContent>
+                        <CardActions>
+                          <Button
+                            size="large"
+                            color="primary"
+                            href={item.site}
+                            target="_blank"
+                          >
+                            Preview
+                          </Button>
+                          <Button
+                            size="large"
+                            color="primary"
+                            href={item.github}
+                            target="_blank"
+                          >
+                            Github
+                          </Button>
+                        </CardActions>
                       </CardActionArea>
-                      <CardActions>
-                        <Button
-                          size="large"
-                          color="primary"
-                          href={item.site}
-                          target="_blank"
-                        >
-                          Preview
-                        </Button>
-                        <Button
-                          size="large"
-                          color="primary"
-                          href={item.github}
-                          target="_blank"
-                        >
-                          Github
-                        </Button>
-                      </CardActions>
                     </Card>
                   );
                 })}

@@ -96,6 +96,14 @@ let resumeData = {
       imgurl: "/images/real-estate-min.png",
       site: "https://realestate-app.netlify.com/",
       github: "https://github.com/zsherman2510/Real-Estate"
+    },
+    {
+      name: "Talent Agency",
+      description:
+        "Simple and clean design built in React. Utilized bootstrap for the styling and some minor custom styling.  I used a few inspirations from Awwwards and Dribbble for the layout and design.",
+      imgurl: "/images/humankind3.png",
+      site: "https://humankind.netlify.com",
+      github: "https://github.com/zsherman2510/model-agency"
     }
   ],
   testimonials: [
