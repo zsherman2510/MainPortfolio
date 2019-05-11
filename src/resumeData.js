@@ -61,29 +61,59 @@ let resumeData = {
   skillsDescription: "Technologies",
   skills: [
     {
-      skillname: "HTML5"
+      skillname: "HTML5",
+      thumbnail: "/images/html5.png"
     },
     {
-      skillname: "CSS"
+      skillname: "CSS",
+      thumbnail: "/images/CSS3.png"
     },
     {
-      skillname: "Reactjs"
+      skillname: "Reactjs",
+      thumbnail: "/images/react.png"
     },
     {
-      skillname: "Javascript"
+      skillname: "Javascript",
+      thumbnail: "/images/javascript.png"
     },
     {
-      skillname: "Node/Express"
+      skillname: "Node/Express",
+      thumbnail: "/images/node.png"
     },
     {
-      skillname: "Git"
+      skillname: "Git",
+      thumbnail: "/images/git.jpg"
     }
   ],
   portfolio: [
     {
+      name: "Talent Agency",
+      description:
+        "Simple and clean design built in React. Utilized bootstrap for the styling and some minor custom styling.  I used a few inspirations from Awwwards and Dribbble for the layout and design.",
+      imgurl: "/images/humankind3.png",
+      site: "https://humankind.netlify.com",
+      github: "https://github.com/zsherman2510/model-agency"
+    },
+    {
+      name: "Music Venue",
+      description:
+        "Music Venue application that is used for future music events. Using React, react-reveal for animations, implemented a countdown timer using vanilla javascript, and advanced css for styling.",
+      imgurl: "/images/music_venue.png",
+      site: "https://ag-venue.netlify.com",
+      github: "https://github.com/zsherman2510/venue"
+    },
+    {
+      name: "Manchester City Soccer Team",
+      description:
+        "React fan page application using Firebase database, react-reveal, and custom css styling.",
+      imgurl: "/images/m-city.png",
+      site: "https://man-city.netlify.com/",
+      github: "https://github.com/zsherman2510/Real-Estate"
+    },
+    {
       name: "Marketshare",
       description:
-        "Full-Stack Serverless Marketplace app built with React / Amplify, a complete GraphQL API, Multi-Factor Authentication, Lambda Functions for charging customers, Stripe for payment processing and the component library Element for styling. Username: testtest Password: Test123!",
+        "Full-Stack Serverless Marketplace app built with React / Amplify, a complete GraphQL API, Multi-Factor Authentication, Lambda Functions for charging customers and Stripe for payment processing.  Username: testtest Password: Test123!",
       imgurl: "/images/marketplace-min.png",
       site:
         "http://marketshare-20190402143628-hostingbucket-dev.s3-website-us-west-2.amazonaws.com/",
@@ -96,14 +126,6 @@ let resumeData = {
       imgurl: "/images/real-estate-min.png",
       site: "https://realestate-app.netlify.com/",
       github: "https://github.com/zsherman2510/Real-Estate"
-    },
-    {
-      name: "Talent Agency",
-      description:
-        "Simple and clean design built in React. Utilized bootstrap for the styling and some minor custom styling.  I used a few inspirations from Awwwards and Dribbble for the layout and design.",
-      imgurl: "/images/humankind3.png",
-      site: "https://humankind.netlify.com",
-      github: "https://github.com/zsherman2510/model-agency"
     }
   ],
   testimonials: [

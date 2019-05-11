@@ -12,19 +12,24 @@ import Typography from "@material-ui/core/Typography";
 
 const styles = {
   card: {
-    margin: 10,
-    height: 400,
+    margin: "auto",
+    marginTop: 20,
+    marginBottom: 20,
+    height: "auto",
     width: 400
   },
   media: {
-    height: 200,
-    width: 400
+    height: 250,
+    width: "100%"
   },
   wrapper: {
     display: "flex",
     alignContent: "center",
     alignItems: "center",
-    justify: "center"
+    justify: "center",
+    flexFlow: "wrap",
+    margin: 20,
+    padding: 20
   }
 };
 class Portfolio extends Component {
