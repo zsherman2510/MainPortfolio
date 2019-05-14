@@ -28,34 +28,22 @@ let resumeData = {
   email: "shermanzavion@gmail.com",
   education: [
     {
-      UniversityName: "The LNM Insitute of Information Technology",
-      specialization: "Some specialization",
-      MonthOfPassing: "Aug",
-      YearOfPassing: "2020",
-      Achievements: "Some Achievements"
-    },
-    {
-      UniversityName: "Some University",
-      specialization: "Some specialization",
-      MonthOfPassing: "Jan",
-      YearOfPassing: "2018",
-      Achievements: "Some Achievements"
+      UniversityName: "University of Arizona",
+      specialization: "Bachelors in Computer Science",
+      MonthOfPassing: "Decemeber",
+      YearOfPassing: "2021",
+      Achievements:
+        "Lead most of my group projects.  Tutored individuals that were having problems with applying the concepts we were learning. "
     }
   ],
   work: [
     {
-      CompanyName: "Some Company",
-      specialization: "Some specialization",
-      MonthOfLeaving: "Jan",
+      CompanyName: "Trilogy Education",
+      specialization: "Teaching Assistant",
+      MonthOfLeaving: "March",
       YearOfLeaving: "2018",
-      Achievements: "Some Achievements"
-    },
-    {
-      CompanyName: "Some Company",
-      specialization: "Some specialization",
-      MonthOfLeaving: "Jan",
-      YearOfLeaving: "2018",
-      Achievements: "Some Achievements"
+      Achievements:
+        "Lead study groups as tutor sessions to help struggling students understand the concepts of HTML/CSS and Javascript."
     }
   ],
   skillsDescription: "Technologies",
@@ -69,6 +57,10 @@ let resumeData = {
       thumbnail: "/images/CSS3.png"
     },
     {
+      skillname: "jQuery",
+      thumbnail: "/images/CSS3.png"
+    },
+    {
       skillname: "Reactjs",
       thumbnail: "/images/react.png"
     },
@@ -77,7 +69,7 @@ let resumeData = {
       thumbnail: "/images/javascript.png"
     },
     {
-      skillname: "Node/Express",
+      skillname: "Node",
       thumbnail: "/images/node.png"
     },
     {

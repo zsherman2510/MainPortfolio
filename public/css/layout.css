@@ -398,20 +398,20 @@ ul#nav li.current a {
     border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-    width: 60%;
+.reactjs {
+    width: 70%;
     -moz-animation: photoshop 2s ease;
     -webkit-animation: photoshop 2s ease;
 }
 
-.illustrator {
-    width: 55%;
+.javascript {
+    width: 60%;
     -moz-animation: illustrator 2s ease;
     -webkit-animation: illustrator 2s ease;
 }
 
-.wordpress {
-    width: 50%;
+.node {
+    width: 60%;
     -moz-animation: wordpress 2s ease;
     -webkit-animation: wordpress 2s ease;
 }
@@ -430,6 +430,12 @@ ul#nav li.current a {
 
 .jquery {
     width: 50%;
+    -moz-animation: jquery 2s ease;
+    -webkit-animation: jquery 2s ease;
+}
+
+.git {
+    width: 60%;
     -moz-animation: jquery 2s ease;
     -webkit-animation: jquery 2s ease;
 }
