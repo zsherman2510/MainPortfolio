@@ -4,22 +4,14 @@ export default class ContactUs extends Component {
     return (
       <section id="contact">
         <div className="row section-head">
-          <div className="ten columns">
+          <div className="twelve columns">
             <p className="lead">
-              Feel free to contact me for any work or suggestions below
+              I am currently looking for active and engaging software
+              development roles in the Tucson area. I can also work remote if
+              necessary but prefer a team-oriented environment. Feel free to
+              reach out to me about any positions that you may have open.
             </p>
           </div>
-        </div>
-        <div className="row">
-          <aside className="eigth columns footer-widgets">
-            <div className="widget">
-              <h4>
-                <a href="mailto:shermanzavion@gmail.com">
-                  shermanzavion@gmail.com
-                </a>
-              </h4>
-            </div>
-          </aside>
         </div>
       </section>
     );

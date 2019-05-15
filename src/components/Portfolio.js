@@ -15,7 +15,7 @@ const styles = {
     margin: "auto",
     marginTop: 20,
     marginBottom: 20,
-    height: "auto",
+    height: "100%",
     width: 400
   },
   media: {

@@ -20,6 +20,11 @@ let resumeData = {
       name: "skype",
       url: "http://twitter.com/zavionsherman",
       className: "fa fa-twitter"
+    },
+    {
+      name: "email",
+      url: "mailto:shermanzavion@gmail.com",
+      className: "fa fa-envelope"
     }
   ],
   aboutme:
