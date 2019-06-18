@@ -28,7 +28,7 @@ let resumeData = {
     }
   ],
   aboutme:
-    "I am currently a part-time Sophmore year student at The University of Arizona and pursuing my Bachelors Degree in Computer Science. I am a self taught Full Stack Web Developer, currently diving deeper into React. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    " I am a self taught Full Stack Web Developer, currently diving deeper into React. I am very passionate individual that strives for greatness and is determined to learn something new everyday.  I am looking for an environment that is close-knit and always looking to get better.  I am willing to relocate from Tucson to anywhere in Arizona. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
   address: "Tucson, AZ",
   email: "shermanzavion@gmail.com",
   education: [
@@ -36,7 +36,7 @@ let resumeData = {
       UniversityName: "University of Arizona",
       specialization: "Bachelors in Computer Science",
       MonthOfPassing: "Decemeber",
-      YearOfPassing: "2021",
+      YearOfPassing: "2018",
       Achievements:
         "Lead most of my group projects.  Tutored individuals that were having problems with applying the concepts we were learning. "
     }
@@ -48,7 +48,23 @@ let resumeData = {
       MonthOfLeaving: "March",
       YearOfLeaving: "2018",
       Achievements:
-        "Lead study groups as tutor sessions to help struggling students understand the concepts of HTML/CSS and Javascript."
+        "Review fundamental concepts and methodologies in Javascript, HTML5, CSS3, Rest APIs, and functional programming proficiencies. Teach students ReactJS / Jquery / Wordpress. Help implement these into their weekly projects. Validate and review other student projects presentations. Advise on best practices if any errors or needs for improvement."
+    },
+    {
+      CompanyName: "E-Com Consulting",
+      specialization: "Web Developer/Marketing Specialist",
+      MonthOfLeaving: "March",
+      YearOfLeaving: "2019",
+      Achievements:
+        "API-based backend written in Javascript with Node and Express, using MongoDB. Custom SCSS styling written with BEM-IT naming conventions. Executed React & Redux front-end in ES6, with Babel, Gulp, Webpack, and Node.Coordinated closely with UI/UX, Design, and QA. Prototyped and WireFramed.Coordinated with their marketing team to help run social media ad campaigns and pin-pointed customer targeting."
+    },
+    {
+      CompanyName: "Department of Defense/ US Army",
+      specialization: "Culinary Specialist",
+      MonthOfLeaving: "June",
+      YearOfLeaving: "2016",
+      Achievements:
+        "Served for 8 years, completed two successful tours to Afghanistan and become a leader to lead many different missions and assignments."
     }
   ],
   skillsDescription: "Technologies",

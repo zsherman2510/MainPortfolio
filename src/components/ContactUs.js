@@ -7,9 +7,9 @@ export default class ContactUs extends Component {
           <div className="twelve columns">
             <p className="lead">
               I am currently looking for active and engaging software
-              development roles in the Tucson area. I can also work remote if
+              development roles in the Arizona area. I can also work remote if
               necessary but prefer a team-oriented environment. Feel free to
-              reach out to me about any positions that you may have open.
+              email me about any positions that you may have open.
             </p>
           </div>
         </div>
